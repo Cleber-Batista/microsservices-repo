@@ -1,2 +1,2 @@
 ambiente:
- deploy: 'banco' 
+  deploy: banco
